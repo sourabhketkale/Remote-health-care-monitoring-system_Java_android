@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">Body Area Network</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_sign_up">SignUp</string>
+    <string name="title_activity_patient_query">PatientQuery</string>
+    <string name="title_activity_main_form">MainForm</string>
+    <string name="title_activity_view_all_query">ViewAllQuery</string>
+    <string name="title_activity_view_reply">ViewReply</string>
+    <string name="title_activity_search_query">SearchQuery</string>
+    <string name="title_activity_welcome">Welcome</string>
+    <string name="title_activity_server_address">ServerAddress</string>
+    <string name="title_activity_select_patient">SelectPatient</string>
+    <string name="title_activity_push_values">PushValues</string>
+
+</resources>
